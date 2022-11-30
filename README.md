@@ -1,6 +1,6 @@
 # Trophy Game Challenge
 
-### Pictor off the game -.-
+### Pictor off the game
 [<img src="https://github.com/taxidriver2192/trophy/blob/main/game.png">](http://google.com.au/)
 [[https://github.com/taxidriver2192/trophy/blob/main/game.png|alt=trophyGames]]
 
