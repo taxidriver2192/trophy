@@ -2,6 +2,7 @@
 
 ### Pictor off the game -.-
 [[game.png]]
+[<img alt="alt_text" width="40px" src="images/image.PNG" />](https://www.google.com/)
 [[/game.png]]
 ![](../../blob/master/game.png)
 [[https://github.com/taxidriver2192/trophy/blob/main/game.png|alt=trophyGames]]
