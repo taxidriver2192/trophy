@@ -28,5 +28,6 @@ npm install
 ```
 
 **Set up the database.**
+
 There is a file called `leaderboard.gz`. Use that.
 
