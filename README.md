@@ -1,6 +1,9 @@
 # Trophy Game Challenge
 
 ### Pictor off the game -.-
+[[game.png]]
+[[/game.png]]
+![](../../blob/master/game.png)
 [[https://github.com/taxidriver2192/trophy/blob/main/game.png|alt=trophyGames]]
 
 This is a challenge trophy games set me up to do. I read the information they sent me and wrote the key points in my notes.
