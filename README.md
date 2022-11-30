@@ -1,17 +1,32 @@
-# trophy
-This is a small game
+# Trophy Game Challenge
 
-# I am not done with the projekt.
-This is what I can do in 8 house of work,
-and now I have the deadline and need to go to work.
+### Pictor off the game -.-
+[[https://github.com/taxidriver2192/trophy/blob/main/game.png|alt=trophyGames]]
 
-## What I not get done
-- I did not have the time to build the database finish.
-- I played around to mouth with jquery.
-- Tried to implement the same logic with db I am used too 
+This is a challenge trophy games set me up to do. I read the information they sent me and wrote the key points in my notes.
 
-## What you need.
-- Set up the database.
-- Run npm install in terminal
+When I wrote this, I figgery out that I was only allowed to use 7 hours.
+I have a bit more, closer to 10 / 11 hours.
 
-- or just watch the short video.
+### One of the nice things I learned.
+That must be how to use **leaflet** and **jquery.ajax**
+
+### How to run the game.
+You need to clone the project and write this in a terminal.
+``` bash
+git clone https://github.com/taxidriver2192/trophy.git
+```
+
+**After that, you need to go to the folder.**
+``` bash
+cd trophy
+```
+
+**Install npm package**
+```npm
+npm install
+```
+
+**Set up the database.**
+There is a file called `leaderboard.gz`. Use that.
+
