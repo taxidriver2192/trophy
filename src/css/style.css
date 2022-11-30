@@ -1,0 +1,54 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#map {
+    height: 100vh;
+}
+
+.wrapper{
+    position:relative;
+    width:100%;
+    height:100%;
+}
+
+.infoPlacholder {
+    position: absolute;
+    top: 0;
+    padding: 15px;
+    z-index: 1337;
+    background-color: #FFF;
+    text-align: center;
+}
+
+.infoPlacholder p {
+    padding: 0;
+    margin: 0;
+}
+
+div#timer {
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.navigation {
+    max-height: 100vh;
+    overflow: auto;
+    overflow-y: hidden;
+}
+
+/* Fix for mobile */
+@media only screen and (max-width: 992px) {
+    .navigation{
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        z-index: 400;
+        background-color: #FFF;
+        max-height: 200px;
+        overflow: auto;
+        padding: 15px 0 0 0;
+    }
+
+}

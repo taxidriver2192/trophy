@@ -32,11 +32,9 @@ function setUser($id){
     global $options;
     $db = new Database($options);
     $currentUser = $db->getById('Users', 1);
-
     $currentUserLogin = $currentUser->id;
     echo $currentUserLogin;
     return($currentUser);
-
 }
 
 function getUsers()
@@ -44,14 +42,12 @@ function getUsers()
     // make a connection to mysql here
     global $options;
     $db = new Database($options);
-    $users = $db->rows("SELECT id, firstName, lastName, username FROM leaderboard.Users ORDER BY id DESC");
+    $users = $db->rows("SELECT id, username FROM leaderboard.Users ORDER BY id DESC");
     $html = "";
 
     foreach ($users as $user) {
         $html .= "<tr>";
         $html .= "<td>$user->id</td>";
-        $html .= "<td>$user->firstName</td>";
-        $html .= "<td>$user->lastName</td>";
         $html .= "<td>$user->username</td>";
 
         $playedGamesUser = $db->count("SELECT Games.id FROM leaderboard.Games where user_id = $user->id");
@@ -68,11 +64,10 @@ function getUsers()
     return $html;
 }
 
+
+
 function saveGame($currentUser, $time, $score){
-    global $options;
-    $db = new Database($options);
-    // Have some problem saving data in js?
-    // It here I come to, changing the tomato thing? and after that I am sending the projekt.
+
 }
 
 
