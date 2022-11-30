@@ -1,10 +1,7 @@
 # Trophy Game Challenge
 
 ### Pictor off the game -.-
-[[game.png]]
-[<img alt="alt_text" width="40px" src="[images/image.PNG](https://github.com/taxidriver2192/trophy/blob/main/game.png)" />](https://www.google.com/)
-[[/game.png]]
-![](../../blob/master/game.png)
+[<img src="https://github.com/taxidriver2192/trophy/blob/main/game.png">](http://google.com.au/)
 [[https://github.com/taxidriver2192/trophy/blob/main/game.png|alt=trophyGames]]
 
 This is a challenge trophy games set me up to do. I read the information they sent me and wrote the key points in my notes.
