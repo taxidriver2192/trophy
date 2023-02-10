@@ -4,10 +4,7 @@
 <img src="https://github.com/taxidriver2192/trophy/blob/main/game.png">
 
 
-This is a challenge trophy games set me up to do. I read the information they sent me and wrote the key points in my notes.
-
-When I wrote this, I figgery out that I was only allowed to use 7 hours.
-I have a bit more, closer to 10 / 11 hours.
+Dette Github-projekt er et spil, der er bygget med JavaScript og Leaflet framework. Målet med spillet er at færdiggøre turen fra København til Næstved. Spillet har en simpel opbygning, men gør brug af avancerede funktioner såsom leaderboardet, som giver spilleren mulighed for at sammenligne deres tid med andre. Det er nemt at spille, og du kan se en demonstration ved at se screen recording-videoen. Projektet har taget omkring 9 timer at udvikle, Leaderboardet gemmes i en JSON-fil, så det er nemt at opdatere og vedligeholde.
 
 ### One of the nice things I learned.
 That must be how to use **leaflet** and **jquery.ajax**
